@@ -1,3 +1,7 @@
+# Mirror test 
+
+method 2 (gitlab-> github)
+
 # Your first TeachBook using the GitHub template
 
 The template allows you to start your own TeachBook and hosting that TeachBook online without knowledge on Git, the Jupyter book / TeachBook package, python, conda and webservers. It doesn't provide full documentation on the functionalities. Please look at our manual (https://teachbooks.io/manual) to find more about that!
