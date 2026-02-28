@@ -2,4 +2,4 @@
 
 Creating new page 
 
-testing mirroring from github -> gitlab
+testing mirror from gitlab to github
