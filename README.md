@@ -1,6 +1,6 @@
 # Mirror test 
 
-method 2 (gitlab-> github)
+testing mirror from gitlab to github
 
 # Your first TeachBook using the GitHub template
 
